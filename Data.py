@@ -61,7 +61,7 @@ MY FATHER 🥀🥀🥀 @ASHWANI10
 
 ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @ASHWANI10
 
-ᴜᴘᴅᴀᴛᴇ   : @Mr_sukkun
+ᴜᴘᴅᴀᴛᴇ   : @ASHWANI10
 
-ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](https://github.com/Noob-mukesh/ForceSubsribeBot)
+ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](https://github.com/ASHWANIashwani/ForceSubsribeBot)
     """
